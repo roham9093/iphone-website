@@ -58,3 +58,9 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/iphone-website.git
    cd iphone-website
+
+Screenshots
+for mobile
+![localhost_5173_(iPhone 14 Pro Max)](https://github.com/user-attachments/assets/ab28fd11-69f6-40eb-b026-b102a52f314f)
+for desktop
+![localhost_5173_](https://github.com/user-attachments/assets/9c6296f2-fccb-4df6-b7c6-4d12ab842fec)
